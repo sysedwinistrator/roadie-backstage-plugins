@@ -53,7 +53,7 @@
     "adm-zip": "^0.5.9",
     "detect-indent": "^6.1.0",
     "fast-glob": "^3.3.3",
-    "fs-extra": "^10.0.0",
+    "fs-extra": "11.2.0",
     "jsonata": "^2.0.4",
     "lodash": "^4.17.21",
     "yaml": "^2.6.1",
